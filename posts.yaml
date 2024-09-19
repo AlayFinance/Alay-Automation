@@ -1,0 +1,72 @@
+  - post_id: 1
+    post_format:
+      - type: image
+      - content:
+        - image:
+          - url: "https://example.com/image1.jpg"
+          - caption: "Hitting the road?  Make sure you're covered with Oona VIP.  Get a free quote today and drive with confidence! #oonavip #carinsurance #roadtrip #safetyfirst"
+      - hashtags: ["#carinsurance", "#oonavip", "#roadtrip", "#safetyfirst"]
+      - audience: all
+      - tone: fun
+      - post_goal: awareness
+      - scheduling:
+        - date: 2024-03-15
+        - time: 10:00
+  - post_id: 2
+    post_format:
+      - type: text
+      - content:
+        - text:
+          - headline: "Protect Your Ride, Protect Yourself."
+          - body: "Oona VIP offers comprehensive car insurance coverage tailored to your needs. Get personalized protection for your vehicle and peace of mind on the road.  Click the link below to learn more! #oonavip #carinsurance #coverage #peaceofmind"
+          - call_to_action: "Get a Quote!"
+      - hashtags: ["#carinsurance", "#oonavip", "#coverage", "#peaceofmind"]
+      - audience: new_customers
+      - tone: informative
+      - post_goal: lead_generation
+      - scheduling:
+        - date: 2024-03-16
+        - time: 14:00
+  - post_id: 3
+    post_format:
+      - type: video
+      - content:
+        - video:
+          - url: "https://www.youtube.com/watch?v=example_video_id"
+          - caption: "Experience the difference of Oona VIP.  We're here to help you navigate the unexpected. #oonavip #carinsurance #claims #support #peaceofmind"
+      - hashtags: ["#carinsurance", "#oonavip", "#claims", "#support", "#peaceofmind"]
+      - audience: all
+      - tone: friendly
+      - post_goal: brand_building
+      - scheduling:
+        - date: 2024-03-17
+        - time: 09:00
+  - post_id: 4
+    post_format:
+      - type: link
+      - content:
+        - link:
+          - url: "https://www.oonavip.com/blog/car-maintenance-tips"
+          - title: "Car Maintenance Tips for a Smooth Ride"
+          - description: "Our blog has valuable tips to help you keep your car in top condition.  Check it out! #oonavip #carinsurance #maintenance #tips"
+      - hashtags: ["#carinsurance", "#oonavip", "#maintenance", "#tips"]
+      - audience: existing_customers
+      - tone: informative
+      - post_goal: engagement
+      - scheduling:
+        - date: 2024-03-18
+        - time: 16:00
+  - post_id: 5
+    post_format:
+      - type: poll
+      - content:
+        - poll:
+          - question: "What's your biggest concern when it comes to car insurance?"
+          - options: ["Cost", "Coverage", "Customer service", "Claims process"]
+      - hashtags: ["#carinsurance", "#oonavip", "#poll", "#questions", "#concerns"]
+      - audience: new_customers
+      - tone: friendly
+      - post_goal: engagement
+      - scheduling:
+        - date: 2024-03-19
+        - time: 12:00
